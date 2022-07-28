@@ -1,0 +1,106 @@
+body {
+  background-color: #0D192B;
+}
+
+a {
+  color: #8BACDA;
+}
+
+img {
+  width: 300px;
+  height: 280px;
+  position: relative;
+  margin: 8% 7.1% 8% 7.1%;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-left: 27px;
+  margin-top: 5px;
+  font-family: 'Outfit', sans-serif;
+ font-weight: 900;
+}
+
+p {
+  margin-left: 27px;
+  color: #8BACDA;
+  font-family: 'Outfit', sans-serif;
+  font-weight: lighter;
+}
+
+hr {
+  width:90%;
+  margin:0 auto;
+  border-color: #8BACDA;
+}
+
+span {
+  color: white;
+}
+
+.main-card {
+  background-color: #14253D;
+  color: white;
+  width: 350px;
+  height: 585px;
+  border-radius: 10px;
+  font-family: arial;
+  margin: 150px 40% 150px 40%;
+  box-shadow: 4px 4px black, -0.5em 0 .4em black;
+}
+
+.one {
+  color: #00FFF7;
+  font-weight: bold;
+  margin-left: 39px;
+  font-size: 15px;
+  position: absolute;
+
+}
+
+.two {
+float: right;
+margin-right: 20px;
+}
+
+.first-icon {
+  width: 10px;
+  height: 20px;
+  float: left;
+  margin: 2.8% 7% 2.8% 7%;
+}
+
+.clock-icon {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  margin: 1.1% 10.5% 1.1% 10.5%;
+}
+
+.avatar {
+  width: 35px;
+  height: 35px;
+  border-color: white;
+  border-width: 1px;
+  border-spacing: inherit;
+  bottom: 2%;
+  display: flex;
+}
+
+.last-line {
+  margin: auto;
+  margin-left: 76px;
+  top: -11%;
+  position: relative;
+}
+
+.attribution {
+  color: #243A73;
+  position: absolute;
+  margin: auto;
+  bottom: 10px;
+  left: 40%;
+  font-family: arial;
+}
